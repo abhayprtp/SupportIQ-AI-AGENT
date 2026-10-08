@@ -1,6 +1,4 @@
-Here is a **clean, professional GitHub README.md** for SupportIQ, written to showcase the project strongly for SDE/FAANG-style review.
 
-SupportIQ README.md
 
 # SupportIQ — Smart Support Ticket Assistance
 
